@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '24799'
     url: http://www.gutenberg.org/2009/agents/24799
     wikipedia: https://en.wikipedia.org/wiki/A._B._Frost
+covers:
+- cover_type: archival
+  image_path: 70436-h/images/cover.jpg
 creator:
   author:
     agent_name: Boyle, Virginia Frazer
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55758
     wikipedia: https://en.wikipedia.org/wiki/Virginia_Frazer_Boyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70436#Devil-tales
 gutenberg_issued: '2023-04-01'
 identifiers:
   gutenberg: '70436'
